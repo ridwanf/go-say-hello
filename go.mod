@@ -1,3 +1,3 @@
-module github.com/ridwanf/go-say-hello.git
+module github.com/ridwanf/go-say-hello
 
 go 1.17
